@@ -3,7 +3,20 @@
 Contrubuter  : Sandeep Bansal
 Languages: Python
 Tools/IDE: Anaconda
-Libraries: pandas, matplotlib, numpy, sklearn, seaborn
+
+Libraries: 
+import pandas as pd
+import numpy as np 
+from sklearn import metrics
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import recall_score
+from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix
+from sklearn.tree import DecisionTreeClassifier
+
+
+
+
 </pre>
 </pre></b>
 
