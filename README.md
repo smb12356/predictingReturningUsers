@@ -16,6 +16,8 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 from sklearn.tree import DecisionTreeClassifier
 
+https://www.kaggle.com/code/anriueno/telco-customer-data-analysis-prediction/data
+
 
 
 
