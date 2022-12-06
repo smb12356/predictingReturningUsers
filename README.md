@@ -41,5 +41,6 @@ https://www.kaggle.com/code/anriueno/telco-customer-data-analysis-prediction/dat
 # References and contributions:
 
 1. https://www.youtube.com/watch?v=cFKcDHzRcrM
-2. 
+2. https://www.kaggle.com/code/anriueno/telco-customer-data-analysis-prediction/data
+
 
