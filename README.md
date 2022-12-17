@@ -36,9 +36,14 @@ Churn prediction is one of the most common use cases of machine learning. Churn 
   
 # Proposed Methodology of Modeling:
 ### Decision Tree
+According to sklearn documentation a Decision Tree is a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. A tree can be seen as a piecewise constant approximation.
+
+
 
 ### Random Forrest
-  
+“Random forests are based on the idea of creating an ensemble, which is where multiple models are combined together to produce a single prediction." To overcome the issue of overfitting, instead of training a single tree to find patterns in data, many trees are trained over random subsets of the data. The predictions of these trees are then averaged to produce a prediction. Combining trees together in this way is called a random forest. This technique has been found to overcome many of the weaknesses of regression trees.
+
+
 
 # Results and Primary Findings:
 
