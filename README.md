@@ -26,14 +26,20 @@ https://www.kaggle.com/code/anriueno/telco-customer-data-analysis-prediction/dat
 
 # Business Objective & Motivation:
 
+Determine most pure dimensions or features that influence whether a customer will Churn or not. 
+
 # Abstract and Introduction:
+
+
 
   
 # Proposed Methodology of Modeling:
+Random Forrest & Decision Tree
 
   
 
 # Results and Primary Findings:
+
 # Limitations and Future work:
 
 # Conclusion and summary:
