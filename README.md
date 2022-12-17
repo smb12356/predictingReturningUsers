@@ -26,7 +26,7 @@ https://www.kaggle.com/code/anriueno/telco-customer-data-analysis-prediction/dat
 
 # Business Objective & Motivation:
 
-Determine most pure dimensions or features that influence whether a customer will Churn or not. 
+Determine most pure dimensions or features that influence whether a customer will register or churn. 
 
 # Abstract and Introduction:
 
