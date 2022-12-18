@@ -47,6 +47,13 @@ According to sklearn documentation a Decision Tree is a non-parametric supervise
 
 # Results and Primary Findings:
 
+![GitHub Logo](https://github.com/smb12356/predictingReturningUsers/blob/83fd711837eafe7ccc8de81610715c96c1742a61/images/married+male_female.png)
+
+
+![GitHub Logo](https://github.com/smb12356/predictingReturningUsers/blob/83fd711837eafe7ccc8de81610715c96c1742a61/images/predictors%20with%20churb.png)
+
+![GitHub Logo](images/decisionTree.png)
+
 
 
 
