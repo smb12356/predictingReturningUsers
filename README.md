@@ -77,6 +77,17 @@ According to sklearn documentation a Decision Tree is a non-parametric supervise
 
 # Limitations and Future work:
 
+Limitations in this project mostly surround the data itself. In any churn prediction analysis it's important to keep in mind that the objective is to predict whether a user will return or churn. Therefore it's important to obtain as much information about users as possible. Along with the data we have other characteristics that could be of use include:
+- Location of each user
+- How often user uses service.
+- What days do they use service most.
+- What days do they use service least.
+- Specific age of each user
+- User funnel route to user service
+- length user has utilized service
+
+
+
 # Conclusion and summary:
 
 # References and contributions:
