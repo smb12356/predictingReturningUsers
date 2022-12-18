@@ -99,8 +99,8 @@ Limitations in this project mostly surround the data itself. In any churn predic
 After using Decision Tree and Random Forrest, it has been shown by the data given that Random forrest is the more accurate model for predicting whether a user will churn. 
 
 In theory Random forrest models are typically more accurate than Decision Tree models because it uses multiple trees referred to as the ensemble method. 
-	- The advantage of using an ensemble algorithm is that it can reduce the variance in the predictions, making them more accurate. 
-	- The random forest algorithm achieves this by averaging the predictions of the individual decision trees.
+- The advantage of using an ensemble algorithm is that it can reduce the variance in the predictions, making them more accurate. 
+- The random forest algorithm achieves this by averaging the predictions of the individual decision trees.
 
 # References and contributions:
 
