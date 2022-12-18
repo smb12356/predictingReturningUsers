@@ -33,6 +33,11 @@ Determine most pure dimensions or features that influence whether a customer wil
 Churn prediction is one of the most common use cases of machine learning. Churn can be anything—employee churn from a company, customer churn from a mobile subscription, and so on. Predicting customer churn is important for an organization because acquiring new customers is easy, but retaining them is more difficult. Similarly, high employee churn can also affect a company, since it spends a huge sum of money on grooming talent. Also, organizations that have high retention rates benefit from consistent growth, which can also lead to high referrals from existing customers.
 
 <p align="center">
+  <img width="660" height="400" src="https://github.com/smb12356/predictingReturningUsers/blob/main/images/monthly%20Charges.png?raw=true">
+</p>
+
+
+<p align="center">
   <img width="860" height="500" src="https://github.com/smb12356/predictingReturningUsers/blob/main/images/Screen%20Shot%202022-12-04%20at%201.54.00%20PM.png?raw=true">
 </p>
 
