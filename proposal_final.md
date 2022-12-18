@@ -1,6 +1,6 @@
 ## Find out number of observatoins and columns
 
-
+9134 rows and 34 columns
 
 ## Column data types
 
@@ -16,13 +16,22 @@ See above!
 
 ## Check for missing values.
 
+None
+
 
 ## Identify potential features for machine learning (some columns may not have predictive power)
 
 
+Churn catagory. 
+
+
 ## Identify the target column.
+
+Churn which needed to featured engineered from 
 
 
 
 ## Look at the distribution of the target columns. for categorical type, find out if it is imblanced. For numeric type, see how it is distributed  (summary statistics, boxplot, histogram).
+
+
 
