@@ -34,4 +34,6 @@ Churn which needed to featured engineered from
 ## Look at the distribution of the target columns. for categorical type, find out if it is imblanced. For numeric type, see how it is distributed  (summary statistics, boxplot, histogram).
 
 
-images/boxplot eda.png
+<p align="center">
+  <img width="40" height="500" src="images/boxplot eda.png">
+</p>
