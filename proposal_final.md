@@ -35,5 +35,5 @@ Churn which needed to featured engineered from
 
 
 <p align="center">
-  <img width="40" height="500" src="images/boxplot eda.png">
+  <img width="440" height="500" src="images/boxplot eda.png">
 </p>
