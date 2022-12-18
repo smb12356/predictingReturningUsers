@@ -98,9 +98,9 @@ Limitations in this project mostly surround the data itself. In any churn predic
 
 # References and contributions:
 
-1. https://www.youtube.com/watch?v=cFKcDHzRcrM
-2. https://www.kaggle.com/code/anriueno/telco-customer-data-analysis-prediction/data
-3. Tommy Blanchard, Debasish Behera and Pranshu Bhatnagar. “Data Science for Marketing Analytics.”
-4. https://scikit-learn.org/stable/modules/tree.html
+
+1. https://www.kaggle.com/code/anriueno/telco-customer-data-analysis-prediction/data
+2. Tommy Blanchard, Debasish Behera and Pranshu Bhatnagar. “Data Science for Marketing Analytics.”
+3. https://scikit-learn.org/stable/modules/tree.html
 
 
