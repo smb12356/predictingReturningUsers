@@ -1,5 +1,10 @@
 # Overview: 
 
+<p align="center">
+  <img width="600" height="300" src="https://github.com/smb12356/predictingReturningUsers/blob/main/images/d-pen-paper-customer-retention-render-written-47070503.jpeg?"
+e">
+</p>
+
 </pre>
 <pre>
 Contrubuter  : Sandeep Bansal
