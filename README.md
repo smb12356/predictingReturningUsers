@@ -11,7 +11,7 @@ Contrubuter  : Sandeep Bansal
 Languages: Python
 Tools/IDE: Anaconda
 -
-Watch Youtube Video Here: https://youtu.be/v9vwWrSwqwc
+Watch Youtube Video Here: https://youtu.be/v9vwWrSwqwc](https://www.youtube.com/watch?v=v9vwWrSwqwc
 Libraries: 
 pandas
 numpy 
