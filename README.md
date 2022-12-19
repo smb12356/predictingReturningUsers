@@ -110,5 +110,6 @@ In theory Random forrest models are typically more accurate than Decision Tree m
 1. https://www.kaggle.com/code/anriueno/telco-customer-data-analysis-prediction/data
 2. Tommy Blanchard, Debasish Behera and Pranshu Bhatnagar. “Data Science for Marketing Analytics.”
 3. https://scikit-learn.org/stable/modules/tree.html
+4. https://www.youtube.com/watch?v=GVECbcKUio4
 
 
